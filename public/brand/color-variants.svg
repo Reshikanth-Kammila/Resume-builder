@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" role="img" aria-labelledby="title">
+  <title id="title">Reshi Resume Studio — Exact Fit colour variants</title>
+  <rect width="1200" height="560" fill="#f8f8f5"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="50" y="67" fill="#24262b" font-size="32" font-weight="700">Reshi Resume Studio</text>
+    <text x="50" y="100" fill="#6a6d76" font-size="17">Exact Fit · approved identity · colour variants</text>
+    <rect x="50" y="140" width="350" height="370" rx="22" fill="#ffffff" stroke="#e5e6e2"/>
+    <rect x="425" y="140" width="350" height="370" rx="22" fill="#ffffff" stroke="#e5e6e2"/>
+    <rect x="800" y="140" width="350" height="370" rx="22" fill="#5145cd"/>
+    <g transform="translate(97 165)" fill="#5145cd">
+      <path d="M32 48H112V80A48 48 0 0 1 112 176V208H32Z"/>
+      <path d="M224 48H144V64A64 64 0 0 1 144 192V208H224Z"/>
+    </g>
+    <g transform="translate(472 165)" fill="#000000">
+      <path d="M32 48H112V80A48 48 0 0 1 112 176V208H32Z"/>
+      <path d="M224 48H144V64A64 64 0 0 1 144 192V208H224Z"/>
+    </g>
+    <g transform="translate(847 165)" fill="#ffffff">
+      <path d="M32 48H112V80A48 48 0 0 1 112 176V208H32Z"/>
+      <path d="M224 48H144V64A64 64 0 0 1 144 192V208H224Z"/>
+    </g>
+    <text x="80" y="440" fill="#24262b" font-size="23" font-weight="700">Indigo</text>
+    <text x="80" y="472" fill="#6a6d76" font-size="16">#5145CD · primary on light</text>
+    <text x="455" y="440" fill="#24262b" font-size="23" font-weight="700">Black</text>
+    <text x="455" y="472" fill="#6a6d76" font-size="16">#000000 · monochrome</text>
+    <text x="830" y="440" fill="#ffffff" font-size="23" font-weight="700">White</text>
+    <text x="830" y="472" fill="#ffffff" font-size="16">#FFFFFF · reversed on indigo</text>
+  </g>
+</svg>
